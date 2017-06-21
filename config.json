@@ -1,0 +1,6 @@
+{"FILE_PATH": "check_connection.txt",
+"PROCCESS_HOST": "127.0.0.1",
+"PROCCESS_NAME": "soffice.bin",
+"PROCCESS_USER": "bda",
+"FORCE": true,
+"DELAY": 0}
